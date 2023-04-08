@@ -1,0 +1,20 @@
+Id,FirstName,LastName,Subject,Result
+1,Aadi,Aditya,Java,fail
+2,Aarav,Abhiram,Py,pass
+3,Aarnav,Abhimanyu,c,pass
+4,Aarush,Abeer,c++,fail
+5,Aayush,Abdul,. Net,pass
+6,Abdul,Abeer,Java,pass
+7,Abeer,Abhimanyu,Py,fail
+8,Abhimanyu,Aditya,c,pass
+9,Abhiram,Abhiram,c++,fail
+10,Aditya,Abhimanyu,. Net,fail
+11,Aadi,Abeer,Java,pass
+12,Aarav,Abdul,Py,pass
+13,Aarnav,Abeer,c,fail
+14,Aarush,Abhimanyu,c++,pass
+15,Aayush,Aditya,. Net,pass
+16,Abdul,Abhiram,Java,fail
+17,Abeer,Abhimanyu,Py,pass
+18,Abhimanyu,Abeer,c,fail
+19,Abhiram,Abdul,c++,pass
